@@ -26,5 +26,5 @@ C++11
 
 cmake 3.6.2
 
-## Licence
+## License
 Copyright © 2016 T_Sumida Distributed under the MIT License.
